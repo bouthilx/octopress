@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://bouthilx.github.io/octopress/sitemap.xml 
+Sitemap: http://bouthilx.github.io//github/sitemap.xml 

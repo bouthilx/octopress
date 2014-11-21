@@ -2,15 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://bouthilx.github.io/octopress/atom.xml" rel="self"/>
-  <link href="http://bouthilx.github.io/octopress/"/>
-  <updated>2014-11-21T12:46:25-05:00</updated>
-  <id>http://bouthilx.github.io/octopress/</id>
+  <link href="http://bouthilx.github.io//github/atom.xml" rel="self"/>
+  <link href="http://bouthilx.github.io//github/"/>
+  <updated>2014-11-21T13:11:57-05:00</updated>
+  <id>http://bouthilx.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post]]></title>
+    <link href="http://bouthilx.github.io//github/blog/2014/11/21/test-post/"/>
+    <updated>2014-11-21T13:04:00-05:00</updated>
+    <id>http://bouthilx.github.io//github/blog/2014/11/21/test-post</id>
+    <content type="html"><![CDATA[<p>A simple test.</p>
+]]></content>
+  </entry>
   
 </feed>
